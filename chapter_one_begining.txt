@@ -2,3 +2,5 @@ Title: Chapter One begging of the jorney
 
 My name is Eric, from house of Kim.
 I am on my way to master git and gitHub
+
+and then he dies
