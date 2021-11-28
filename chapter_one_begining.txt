@@ -1,6 +1,8 @@
-Title: Chapter One begging of the jorney
-
+Title: Chapter One begging of stroy
 My name is Yui, from house of Makita.
 I am on my way to master git and gitHub
 
 and then he dies
+
+
+
